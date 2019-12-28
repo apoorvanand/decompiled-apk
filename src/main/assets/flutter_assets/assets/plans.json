@@ -1,0 +1,157 @@
+[
+  {
+    "planName": "Solo",
+    "maxBookCount": 1,
+    "planBilling": [
+      {
+        "maxBookCount": 1,
+        "maxFreeDelivery": 12,
+        "planType": 0,
+        "ccToAllow": [
+          100,
+          200
+        ],
+        "_id": "5d347c7c6d2f960011b5c072",
+        "planName": "Solo",
+        "amount": 379.0,
+        "duration": 3,
+        "description": "1 Book, 3 Month Plan",
+        "__v": 0
+      },
+      {
+        "maxBookCount": 1,
+        "maxFreeDelivery": 24,
+        "planType": 0,
+        "ccToAllow": [
+          100,
+          200
+        ],
+        "_id": "5d347d4b7940fc0010afbda4",
+        "planName": "Solo",
+        "amount": 749.0,
+        "duration": 6,
+        "description": "1 Book, 6 Month Plan",
+        "__v": 0
+      },
+      {
+        "maxBookCount": 1,
+        "maxFreeDelivery": 48,
+        "planType": 0,
+        "ccToAllow": [
+          100,
+          200
+        ],
+        "_id": "5d347d686d2f960011b5c073",
+        "planName": "Solo",
+        "amount": 1499.0,
+        "duration": 12,
+        "description": "1 Book, Yearly Plan",
+        "__v": 0
+      }
+    ]
+  },
+  {
+    "planName": "Couple",
+    "maxBookCount": 2,
+    "planBilling": [
+      {
+        "maxBookCount": 2,
+        "maxFreeDelivery": 12,
+        "planType": 0,
+        "ccToAllow": [
+          100,
+          200
+        ],
+        "_id": "5d347eb56d2f960011b5c075",
+        "planName": "Couples",
+        "amount": 729.0,
+        "duration": 3,
+        "description": "2 Book, 3 Months Plan",
+        "__v": 0
+      },
+      {
+        "maxBookCount": 2,
+        "maxFreeDelivery": 24,
+        "planType": 0,
+        "ccToAllow": [
+          100,
+          200
+        ],
+        "_id": "5d347ecb5253c90010af2218",
+        "planName": "Couples",
+        "amount": 1449.0,
+        "duration": 6,
+        "description": "2 Book, 6 Months Plan",
+        "__v": 0
+      },
+      {
+        "maxBookCount": 2,
+        "maxFreeDelivery": 48,
+        "planType": 0,
+        "ccToAllow": [
+          100,
+          200
+        ],
+        "_id": "5d347d9712a8f5001826e1ee",
+        "planName": "Couples",
+        "amount": 2799.0,
+        "duration": 12,
+        "description": "2 Book, Yearly Plan",
+        "__v": 0
+      }
+    ]
+  },
+  {
+    "planName": "Family",
+    "maxBookCount": 3,
+    "planBilling": [
+      {
+        "maxBookCount": 3,
+        "maxFreeDelivery": 12,
+        "planType": 0,
+        "ccToAllow": [
+          100,
+          200
+        ],
+        "_id": "5d347f197940fc0010afbda5",
+        "planName": "Family",
+        "amount": 1099.0,
+        "duration": 3,
+        "description": "3 Book, 3 Months Plan",
+        "__v": 0
+      },
+      {
+        "maxBookCount": 3,
+        "maxFreeDelivery": 24,
+        "planType": 0,
+        "ccToAllow": [
+          100,
+          200
+        ],
+        "_id": "5d347f2b6d2f960011b5c077",
+        "planName": "Family",
+        "amount": 2299.0,
+        "duration": 6,
+        "description": "3 Book, 6 Months Plan",
+        "__v": 0
+      },
+      {
+        "maxBookCount": 3,
+        "maxFreeDelivery": 48,
+        "planType": 0,
+        "ccToAllow": [
+          100,
+          200
+        ],
+        "_id": "5d347db96d2f960011b5c074",
+        "planName": "Family",
+        "amount": 4599.0,
+        "duration": 12,
+        "description": "3 Book, Yearly Plan",
+        "__v": 0
+      }
+    ]
+  }
+]
+
+

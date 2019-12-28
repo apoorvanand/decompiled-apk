@@ -1,0 +1,305 @@
+{
+  "tags": [
+    {
+      "chipName": "fiction",
+      "tags":
+      [
+        {
+          "tagName": "crime",
+          "displayName": "Crime",
+          "tagImageURL": "https://image.freepik.com/free-vector/criminal-mugshot-front-view-measuring-scale_33099-1901.jpg"
+        },
+        {
+          "tagName": "romance",
+          "displayName": "Romance",
+          "tagImageURL": "https://image.freepik.com/free-vector/criminal-mugshot-front-view-measuring-scale_33099-1901.jpg"
+        },
+        {
+          "tagName": "scienceFiction",
+          "displayName": "Science Fiction",
+          "tagImageURL": "https://image.freepik.com/free-vector/criminal-mugshot-front-view-measuring-scale_33099-1901.jpg"
+        },
+        {
+          "tagName": "LiteraryFiction",
+          "displayName": "Literary Fiction",
+          "tagImageURL": "https://image.freepik.com/free-vector/criminal-mugshot-front-view-measuring-scale_33099-1901.jpg"
+        },
+        {
+          "tagName": "Classic",
+          "displayName": "Classic",
+          "tagImageURL": "https://image.freepik.com/free-vector/criminal-mugshot-front-view-measuring-scale_33099-1901.jpg"
+        },
+        {
+        "tagName": "Suspense / Thriller",
+        "displayName": "Thriller",
+        "tagImageURL": "https://image.freepik.com/free-vector/criminal-mugshot-front-view-measuring-scale_33099-1901.jpg"
+      },
+        {
+          "tagName": "HistoricalFiction",
+          "displayName": "Historical Fiction",
+          "tagImageURL": "https://image.freepik.com/free-vector/criminal-mugshot-front-view-measuring-scale_33099-1901.jpg"
+        },
+        {
+          "tagName": "Mythology",
+          "displayName": "Mythology",
+          "tagImageURL": "https://image.freepik.com/free-vector/criminal-mugshot-front-view-measuring-scale_33099-1901.jpg"
+        },
+        {
+          "tagName": "ShortStories",
+          "displayName": "Short Stories",
+          "tagImageURL": "https://image.freepik.com/free-vector/criminal-mugshot-front-view-measuring-scale_33099-1901.jpg"
+        },
+        {
+          "tagName": "Indian",
+          "displayName": "Indian",
+          "tagImageURL": "https://image.freepik.com/free-vector/criminal-mugshot-front-view-measuring-scale_33099-1901.jpg"
+        },
+        {
+          "tagName": "Mythology",
+          "displayName": "Mythology",
+          "tagImageURL": "https://image.freepik.com/free-vector/criminal-mugshot-front-view-measuring-scale_33099-1901.jpg"
+        }
+      ]
+    },
+    {
+      "chipName": "Non Fiction",
+      "tags":
+      [
+        {
+          "tagName": "Biography",
+          "displayName": "Biographies",
+          "tagImageURL": "https://image.freepik.com/free-vector/criminal-mugshot-front-view-measuring-scale_33099-1901.jpg"
+        },
+        {
+          "tagName": "Business",
+          "displayName": "Business",
+          "tagImageURL": "https://image.freepik.com/free-vector/criminal-mugshot-front-view-measuring-scale_33099-1901.jpg"
+        },
+        {
+          "tagName": "SelfHelp",
+          "displayName": "Self Help",
+          "tagImageURL": "https://image.freepik.com/free-vector/criminal-mugshot-front-view-measuring-scale_33099-1901.jpg"
+        },
+        {
+          "tagName": "Psychology",
+          "displayName": "Psychology",
+          "tagImageURL": "https://image.freepik.com/free-vector/criminal-mugshot-front-view-measuring-scale_33099-1901.jpg"
+        },
+        {
+          "tagName": "Leadership",
+          "displayName": "Leadership",
+          "tagImageURL": "https://image.freepik.com/free-vector/criminal-mugshot-front-view-measuring-scale_33099-1901.jpg"
+        },
+        {
+        "tagName": "PoliticalHistory",
+        "displayName": "Political History",
+        "tagImageURL": "https://image.freepik.com/free-vector/criminal-mugshot-front-view-measuring-scale_33099-1901.jpg"
+      },
+        {
+          "tagName": "Philosophy",
+          "displayName": "Philosophy Fiction",
+          "tagImageURL": "https://image.freepik.com/free-vector/criminal-mugshot-front-view-measuring-scale_33099-1901.jpg"
+        },
+        {
+          "tagName": "Religion",
+          "displayName": "Religion",
+          "tagImageURL": "https://image.freepik.com/free-vector/criminal-mugshot-front-view-measuring-scale_33099-1901.jpg"
+        },
+        {
+          "tagName": "Health&Wellness",
+          "displayName": "Health & Wellness",
+          "tagImageURL": "https://image.freepik.com/free-vector/criminal-mugshot-front-view-measuring-scale_33099-1901.jpg"
+        },
+        {
+          "tagName": "Education",
+          "displayName": "Education",
+          "tagImageURL": "https://image.freepik.com/free-vector/criminal-mugshot-front-view-measuring-scale_33099-1901.jpg"
+        }
+      ]
+    },
+    {
+      "chipName": "Industry",
+      "tags":
+      [
+        {
+          "tagName": "Pharamecuticals",
+          "displayName": "Pharamecuticals",
+          "tagImageURL": "https://image.freepik.com/free-vector/criminal-mugshot-front-view-measuring-scale_33099-1901.jpg"
+        },
+        {
+          "tagName": "Information Technology",
+          "displayName": "Information Technology",
+          "tagImageURL": "https://image.freepik.com/free-vector/criminal-mugshot-front-view-measuring-scale_33099-1901.jpg"
+        },
+        {
+          "tagName": "Human Resource Management",
+          "displayName": "Human Resource Management",
+          "tagImageURL": "https://image.freepik.com/free-vector/criminal-mugshot-front-view-measuring-scale_33099-1901.jpg"
+        },
+        {
+          "tagName": "BFSI",
+          "displayName": "BFSI",
+          "tagImageURL": "https://image.freepik.com/free-vector/criminal-mugshot-front-view-measuring-scale_33099-1901.jpg"
+        },
+        {
+          "tagName": "SAAS",
+          "displayName": "SAAS",
+          "tagImageURL": "https://image.freepik.com/free-vector/criminal-mugshot-front-view-measuring-scale_33099-1901.jpg"
+        },
+        {
+        "tagName": "Sales",
+        "displayName": "Sales",
+        "tagImageURL": "https://image.freepik.com/free-vector/criminal-mugshot-front-view-measuring-scale_33099-1901.jpg"
+      }
+      ]
+    },
+    {
+      "chipName": "Comics",
+      "tags":
+      [
+        {
+          "tagName": "DCComics",
+          "displayName": "DC Comics",
+          "tagImageURL": "https://image.freepik.com/free-vector/criminal-mugshot-front-view-measuring-scale_33099-1901.jpg"
+        },
+        {
+          "tagName": "MarvelComics",
+          "displayName": "Marvel Comics",
+          "tagImageURL": "https://image.freepik.com/free-vector/criminal-mugshot-front-view-measuring-scale_33099-1901.jpg"
+        },
+        {
+          "tagName": "Tintin",
+          "displayName": "Tintin",
+          "tagImageURL": "https://image.freepik.com/free-vector/criminal-mugshot-front-view-measuring-scale_33099-1901.jpg"
+        },
+        {
+          "tagName": "Asterix",
+          "displayName": "Asterix",
+          "tagImageURL": "https://image.freepik.com/free-vector/criminal-mugshot-front-view-measuring-scale_33099-1901.jpg"
+        },
+        {
+          "tagName": "Tinkle",
+          "displayName": "Tinkle",
+          "tagImageURL": "https://image.freepik.com/free-vector/criminal-mugshot-front-view-measuring-scale_33099-1901.jpg"
+        }
+      ]
+    },
+    {
+      "chipName": "Kids",
+      "tags":
+      [
+        {
+          "tagName": "PictureBooks",
+          "displayName": "Picture Books(0-2)",
+          "tagImageURL": "https://image.freepik.com/free-vector/criminal-mugshot-front-view-measuring-scale_33099-1901.jpg"
+        },
+        {
+          "tagName": "EarlyLearningLBooks",
+          "displayName": "Early Learning Books(3-5)",
+          "tagImageURL": "https://image.freepik.com/free-vector/criminal-mugshot-front-view-measuring-scale_33099-1901.jpg"
+        },
+        {
+          "tagName": "PictureStoryBooks",
+          "displayName": "Picture Story Books(6-8)",
+          "tagImageURL": "https://image.freepik.com/free-vector/criminal-mugshot-front-view-measuring-scale_33099-1901.jpg"
+        },
+        {
+          "tagName": "MiddleGradeNovels",
+          "displayName": "Middle Grade Novels(9-12)",
+          "tagImageURL": "https://image.freepik.com/free-vector/criminal-mugshot-front-view-measuring-scale_33099-1901.jpg"
+        }, {
+        "tagName": "TeenNovels",
+        "displayName": "Teen Novels(13 - 16)",
+        "tagImageURL": "https://image.freepik.com/free-vector/criminal-mugshot-front-view-measuring-scale_33099-1901.jpg"
+      },
+        {
+          "tagName": "YoungAdult",
+          "displayName": "Young Adult ( 16+)",
+          "tagImageURL": "https://image.freepik.com/free-vector/criminal-mugshot-front-view-measuring-scale_33099-1901.jpg"
+        }
+      ]
+    },
+    {
+      "chipName": "Technical",
+      "tags":
+      [
+        {
+          "tagName": "Artificial Intelligence",
+          "displayName": "Artificial Intelligence",
+          "tagImageURL": "https://image.freepik.com/free-vector/criminal-mugshot-front-view-measuring-scale_33099-1901.jpg"
+        },
+        {
+          "tagName": "MachineLearning",
+          "displayName": "Machine Learning",
+          "tagImageURL": "https://image.freepik.com/free-vector/criminal-mugshot-front-view-measuring-scale_33099-1901.jpg"
+        },
+        {
+          "tagName": "ProgrammingLanguages",
+          "displayName": "ProgrammingLanguages",
+          "tagImageURL": "https://image.freepik.com/free-vector/criminal-mugshot-front-view-measuring-scale_33099-1901.jpg"
+        },
+        {
+          "tagName": " Databases",
+          "displayName": "Databases",
+          "tagImageURL": "https://image.freepik.com/free-vector/criminal-mugshot-front-view-measuring-scale_33099-1901.jpg"
+        },
+        {
+          "tagName": "SoftwareDesign",
+          "displayName": "Software Design & Engineering",
+          "tagImageURL": "https://image.freepik.com/free-vector/criminal-mugshot-front-view-measuring-scale_33099-1901.jpg"
+        },
+        {
+          "tagName": "Hardware",
+          "displayName": "Hardware & IOT",
+          "tagImageURL": "https://image.freepik.com/free-vector/criminal-mugshot-front-view-measuring-scale_33099-1901.jpg"
+        }
+      ]
+    },
+    {
+      "chipName": "Magazines",
+      "tags":
+      [
+        {
+          "tagName": "NatureMag",
+          "displayName": "NatureMage",
+          "tagImageURL": "https://image.freepik.com/free-vector/criminal-mugshot-front-view-measuring-scale_33099-1901.jpg"
+        },
+        {
+          "tagName": "KannadaMag",
+          "displayName": "KannadaMag",
+          "tagImageURL": "https://image.freepik.com/free-vector/criminal-mugshot-front-view-measuring-scale_33099-1901.jpg"
+        },
+        {
+          "tagName": "BusinessMag",
+          "displayName": "BusinessMag",
+          "tagImageURL": "https://image.freepik.com/free-vector/criminal-mugshot-front-view-measuring-scale_33099-1901.jpg"
+        },
+        {
+          "tagName": "TamilMag",
+          "displayName": "TamilMag",
+          "tagImageURL": "https://image.freepik.com/free-vector/criminal-mugshot-front-view-measuring-scale_33099-1901.jpg"
+        },
+        {
+          "tagName": " Film&MovieMag",
+          "displayName": "Film&MovieMag",
+          "tagImageURL": "https://image.freepik.com/free-vector/criminal-mugshot-front-view-measuring-scale_33099-1901.jpg"
+        },
+        {
+          "tagName": "TravelMag",
+          "displayName": "TravelMag",
+          "tagImageURL": "https://image.freepik.com/free-vector/criminal-mugshot-front-view-measuring-scale_33099-1901.jpg"
+        },
+        {
+          "tagName": "fashionMag",
+          "displayName": "fashionMag",
+          "tagImageURL": "https://image.freepik.com/free-vector/criminal-mugshot-front-view-measuring-scale_33099-1901.jpg"
+        },
+        {
+          "tagName": "FoodMag",
+          "displayName": "FoodMag",
+          "tagImageURL": "https://image.freepik.com/free-vector/criminal-mugshot-front-view-measuring-scale_33099-1901.jpg"
+        }
+      ]
+    }
+  ]
+}
